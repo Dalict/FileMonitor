@@ -2,6 +2,8 @@
 
 [English](README.md) | [中文繁體](README_zh_TW.md)
 
+![Preview](FileMonitor_Preview_zh_CN.png)
+
 监视指定文件或文件夹是否出现，可自动记录日志并在检测到后执行关机。适用于大型文件下载检测（例如通过 SFTP 下载的文件），完成后自动关闭电脑。
 
 ## 功能

@@ -2,6 +2,8 @@
 
 [English](README.md) | [中文简体](README_zh_CN.md)
 
+![Preview](FileMonitor_Preview_zh_TW.png)
+
 監視指定的檔案或資料夾是否出現，可自動記錄日誌並在偵測到後執行關機。適合用於大型檔案下載偵測（例如透過 SFTP 下載的檔案），完成後自動關閉電腦。
 
 ## 功能

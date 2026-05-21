@@ -2,6 +2,8 @@
 
 [中文简体](README_zh_CN.md) | [中文繁體](README_zh_TW.md)
 
+![Preview](FileMonitor_Preview.png)
+
 Monitors the appearance of a specified file or folder, automatically logs the event, and optionally shuts down the system. Perfect for detecting completed downloads (e.g., large files via SFTP) and turning off the PC afterward.
 
 ## Features
